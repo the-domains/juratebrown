@@ -1,29 +1,41 @@
-name: JurateBrown.com
-favicon: null
-layout_spectrum: 0.91053
-typography_spectrum: 0.87003
-title: Jurate Brown
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.91053
+title: Jurate Brown
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.5
+  brandStrength: 0.5625
+  rhythmicContrast: 0.75
   brandColors:
     - '#002a54'
     - '#030210'
     - '#ffffff'
     - '#bc968b'
     - '#825f5d'
-  brandStrength: 0.5625
   lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.75
 purpose: []
+favicon: null
+name: JurateBrown.com
+typography_spectrum: 0.87003
