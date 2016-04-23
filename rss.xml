@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jurate Brown]]></title>
         <description><![CDATA[Jurate Brown]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://juratebrown.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 04:49:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 02:09:39 GMT</lastBuildDate>
+        <atom:link href="http://juratebrown.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad6db020-b095-40ee-8d98-3fd4b70bcb7b.jpg">]]></description>
+            <link>http://juratebrown.com/crochet-necklace/index.html</link>
+            <guid isPermaLink="false">96b5e459-3a41-4c6e-a159-b46aacb166d6</guid>
+            <pubDate>Sat, 23 Apr 2016 02:09:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95917b7f-e5d4-40c3-9526-1a8d613f229f.jpg">]]></description>
-            <link>undefined3fd6d816-7cdf-4f2c-9b8c-90d9ab8c645b/index.html</link>
+            <link>http://juratebrown.com/3fd6d816-7cdf-4f2c-9b8c-90d9ab8c645b/index.html</link>
             <guid isPermaLink="false">3fd6d816-7cdf-4f2c-9b8c-90d9ab8c645b</guid>
             <pubDate>Fri, 22 Apr 2016 04:49:32 GMT</pubDate>
         </item>
