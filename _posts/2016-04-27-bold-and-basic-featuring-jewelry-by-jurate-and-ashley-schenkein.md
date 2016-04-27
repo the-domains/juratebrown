@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://stylishandscatterbrained.com/bold-basic-featuring-jewelry-jurate-ashley-schenkein-jewelry/'
 title: 'Bold & Basic: Featuring Jewelry By Jurate & Ashley Schenkein Jewelry'
-datePublished: '2016-04-27T14:13:36.419Z'
-dateModified: '2016-04-27T12:36:03.151Z'
+datePublished: '2016-04-27T19:33:41.989Z'
+dateModified: '2016-04-27T12:36:38.603Z'
 starred: false
 sourcePath: _posts/2016-04-27-bold-and-basic-featuring-jewelry-by-jurate-and-ashley-schenkein.md
 published: true
