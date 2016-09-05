@@ -3,7 +3,7 @@ author: []
 related: []
 publisher:
   url: 'http://stylishandscatterbrained.com'
-  name: 'Stylish & Scatterbrained'
+  name: Stylish & Scatterbrained
   favicon: 'http://stylishandscatterbrained.com/wp-content/uploads/2014/06/FAV2.png'
   domain: stylishandscatterbrained.com
 keywords:
@@ -17,16 +17,22 @@ keywords:
   - ahh
   - maxx
   - loft
-description: "It was such a nice treat taking pictures in 50 degree weather yesterday! I'd almost forgotten what it was like to not be shaking and rushing back and forth to the car between shots. Ahh, the little things I'm excited to showcase two new additions to my jewelry collections thanks to Jurate and Ashley Schenkein Jewelry."
+description: >-
+  It was such a nice treat taking pictures in 50 degree weather yesterday! I'd
+  almost forgotten what it was like to not be shaking and rushing back and forth
+  to the car between shots. Ahh, the little things I'm excited to showcase two
+  new additions to my jewelry collections thanks to Jurate and Ashley Schenkein
+  Jewelry.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://stylishandscatterbrained.com/bold-basic-featuring-jewelry-jurate-ashley-schenkein-jewelry/'
+isBasedOnUrl: >-
+  http://stylishandscatterbrained.com/bold-basic-featuring-jewelry-jurate-ashley-schenkein-jewelry/
 title: 'Bold & Basic: Featuring Jewelry By Jurate & Ashley Schenkein Jewelry'
-datePublished: '2016-04-27T19:33:41.989Z'
-dateModified: '2016-04-27T12:36:38.603Z'
+datePublished: '2016-09-02T04:53:17.628Z'
+dateModified: '2016-09-02T04:53:17.011Z'
+sourcePath: >-
+  _posts/2016-04-27-bold-and-basic-featuring-jewelry-by-jurate-and-ashley-schenkein.md
 starred: false
-sourcePath: _posts/2016-04-27-bold-and-basic-featuring-jewelry-by-jurate-and-ashley-schenkein.md
-published: true
 inFeed: true
 hasPage: false
 inNav: false
