@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Crochet Necklace
-datePublished: '2016-04-23T02:23:47.734Z'
-dateModified: '2016-04-23T02:23:47.408Z'
+datePublished: '2016-09-02T04:53:17.641Z'
+dateModified: '2016-09-02T04:53:17.011Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-23-crochet-necklace.md
-published: true
 authors: []
 publisher:
   name: null
