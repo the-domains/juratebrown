@@ -5,15 +5,16 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Bracelets
-datePublished: '2016-09-02T04:53:17.632Z'
-dateModified: '2016-09-02T04:53:17.011Z'
+datePublished: '2016-09-02T04:53:25.220Z'
+dateModified: '2016-09-02T04:53:24.817Z'
 title: ''
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-05-14-bracelets.md
 authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: true
 url: bracelets/index.html
 _type: WebPage
