@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Bracelets
-datePublished: '2016-05-19T05:14:39.526Z'
-dateModified: '2016-05-19T05:13:58.825Z'
+datePublished: '2016-09-02T04:53:17.632Z'
+dateModified: '2016-09-02T04:53:17.011Z'
 title: ''
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-05-14-bracelets.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: bracelets/index.html
 _type: WebPage
 
